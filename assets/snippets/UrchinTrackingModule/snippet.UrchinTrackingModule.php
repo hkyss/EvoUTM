@@ -1,19 +1,4 @@
 <?php
-/**
- * UrchinTrackingModule
- *
- * set/get UTM
- *
- * @category    snippet
- * @version     1.0
- * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
- * @internal    @properties
- * @internal    @modx_category Content
- * @internal    @installset base
- * @author      hkyss [hkyss.off.dev@gmail.com]
- * @lastupdate  09.11.2020
- */
-
 switch($status) {
     case 'set':
         $utms = ['utm_source','utm_campaign','utm_medium','utm_term','utm_content'];
