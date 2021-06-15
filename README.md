@@ -2,7 +2,7 @@
 
 ## Install
 - Copy this repo into your site folder
-- Create a snippet witch code
+- Create a snippet with code
 ```php
 /**
  * UrchinTrackingModule
